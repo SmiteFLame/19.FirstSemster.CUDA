@@ -1,15 +1,17 @@
-# 19.FirstSemster.CUDA
+# CUDA Programming
+## GEN ALGORITHM
 
-병렬프로그래밍(캡스톤디자인)프로젝트 결과물
 
-유전자 알고리즘을 표현하기 위해서 문자열의 진화를 선택
+## Introduction
+This is a CUDA programming with Genetic Algorithm.
 
-맨 처음 랜덤 문자열을 여러개를 만들어서 사용
+For easy understanding, I made it into a life science at the high school level.
 
-그 중 실제 문자열과 가장 비슷한 문자열을 선택해서 우성 문자열로 설정
+It's easy to understand if you've ever learned life science in high school.
 
-일정 비율로 선택된 우성 문자열으로만 다시 새로운 문자열을 만들어서 평가
+## Requirements
 
-중간 돌연변이와 교차로 임의로 문자열을 새로 만듬
+- `CUDA 9.0`
 
-90% 이상 될 때 까지 프로그램을 돌림
+## Result
+![image](https://github.com/SmiteFLame/GeneticAlgorithmCUDA/blob/master/data.PNG)
