@@ -1,5 +1,5 @@
-# CUDA Programming
-## GEN ALGORITHM
+# CUDA Programming 
+## String matching using genetic algorithm
 
 
 ## Introduction
